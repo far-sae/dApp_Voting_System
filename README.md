@@ -13,7 +13,6 @@ This project focuses on the development and implementation of a **Decentralized 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technical Details](#technical-details)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
