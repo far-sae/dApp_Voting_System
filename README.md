@@ -85,15 +85,6 @@ This project focuses on the development and implementation of a **Decentralized 
 - **Backend**: Node.js with Express
 - **Database**: MySQL for non-transactional data and IPFS for decentralized storage
 
-## Screenshots
-
-1. **Login Page**:
-   - Secure authentication via MetaMask.
-2. **Vote Casting Page**:
-   - User-friendly voting interface connected to the blockchain.
-3. **Vote Confirmation Page**:
-   - Confirmation message after successful vote casting.
-
 ## Contributing
 
 Contributions are welcome! Please follow the standard GitHub flow for contributing:
