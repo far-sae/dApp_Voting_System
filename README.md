@@ -14,7 +14,6 @@ This project focuses on the development and implementation of a **Decentralized 
 - [Usage](#usage)
 - [Technical Details](#technical-details)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 
